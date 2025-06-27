@@ -100,3 +100,7 @@ Na comparação regional, todas as regiões melhoraram suas notas de 2016 para 2
 
 <img scr="page "Olist_Svetlana_page-0005" alt="Produtos" width="800">
 
+Dentro dos produtos vendidos, destaca-se a categoria de cama, mesa_banho, automotivo e beleza_saude, como produtos com maior procura, especialmente no mês de novembro. É percetível que a queda de vendas ocorre no mês de setembro, possivelmente devido às promoções do mês de agosto. Destaca-se que a categoria cama_mesa_banho atingiu o valor rotal de venda de 590.280,44, com o valor médio de venda de 113,02 R$.
+
+<img scr="page "Olist_Svetlana_page-0006" alt="Global" width="800">
+Entre 2016 e 2018, o valor total de pagamentos realizados na Olist somou aproximadamente R$ 16,01 milhões, sendo o cartão de crédito o método de pagamento mais utilizado, seguido por boleto, voucher, cartão de débito e métodos não definidos. A maioria dos pedidos (110.197) foi concluída com sucesso (entregues), com volumes significativamente menores nos status de enviados, cancelados, faturados, processando, indisponíveis e aprovados. Os produtos também refletiram essa tendência, com predominância de entregas concluídas. Em termos de faturamento por status do pedido, os pedidos entregues geraram a maior receita, totalizando mais de R$ 15,4 milhões. Regionalmente, a maior parte das vendas ocorreu no Sudeste (R$ 10,34 milhões), seguido pelas regiões Sul, Nordeste, Centro-Oeste e Norte.
