@@ -80,3 +80,23 @@ Construi o painel no Power BI focando na clareza e interatividade. Para enriquec
 
 🔗 [Base de dados – Kaggle: Olist Brazilian E-commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
+
+Dashboard - Análise de Vendas da Olist
+<img scr="page "Olist_Svetlana_page-0001" alt="Objetivos" width="800">
+
+Aqui foram definidos os principais objetivos a  atingir com a análise da base de dados da E-Commerce Brasileiro Olist, entre os quais obter informações sobre os clientes, definidr o Top 10 de clientes, vendedores e regiões com maiores vendas, análise de vendas, produtos e avaliações dos mesmos por parte dos clientes.
+
+<img scr="page "Olist_Svetlana_page-0002" alt="Clientes" width="800">
+O dashboard da Olist mostra que a empresa possui 99,44 mil clientes e 112,65 mil pedidos realizados. Houve crescimento significativo entre 2016 e 2018, com destaque para o aumento de clientes e pedidos principalmente em 2017 e 2018. O valor médio de compra é de R$ 140,64. O tempo de espera diminuiu ao longo dos anos, com média total de -11,88 dias. A região Sudeste lidera em volume de vendas, enquanto a região Norte apresenta o maior tempo de espera.
+
+<img scr="page "Olist_Svetlana_page-0003" alt="Vendas" width="800">
+O estado de São Paulo lidera tanto em número de vendedores quanto de clientes, com ampla vantagem sobre os demais. No total, o valor das vendas entre 2016 e 2018 somou R$ 16 milhões, com destaque para 2018, que sozinho movimentou mais de R$ 8,6 milhões.
+O ticket médio por pedido foi crescendo ao longo dos anos: R$ 0,58 (2016), R$ 72,39 (2017) e R$ 87,61 (2018), totalizando R$ 160,58. O mapa à direita reforça a concentração de vendas nas regiões Sudeste e Sul do Brasil, principalmente em SP, RJ e MG.
+
+<img scr="page "Olist_Svetlana_page-0004" alt="Avaliações" width="800">
+A plataforma recebeu um total de 99,22 mil avaliações, sendo 57 mil com 5 estrelas e 11 mil com 1 estrela, resultando em uma média geral de 4,09.
+As avaliações 5 estrelas são as mais frequentes ao longo dos meses, com destaque nos meses de março a agosto.
+Na comparação regional, todas as regiões melhoraram suas notas de 2016 para 2017. No entanto, a região Nordeste apresentou queda contínua em 2017 e 2018, enquanto Centro-Oeste, Sudeste e Sul mantiveram notas mais altas e estáveis a partir de 2017.
+
+<img scr="page "Olist_Svetlana_page-0005" alt="Produtos" width="800">
+
